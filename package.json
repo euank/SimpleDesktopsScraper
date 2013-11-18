@@ -1,0 +1,24 @@
+{
+  "name": "SimpleDesktopsScraper",
+  "version": "0.0.1",
+  "description": "Scrapes all the files from SimpleDesktops.com",
+  "main": "scrape.js",
+  "dependencies": {
+    "request": "latest",
+    "async": "latest",
+    "cheerio": "latest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/euank/SimpleDesktopsScraper.git"
+  },
+  "keywords": [
+    "scraper",
+    "wallpapers"
+  ],
+  "author": "EuanK",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/euank/SimpleDesktopsScraper/issues"
+  }
+}
